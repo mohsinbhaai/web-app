@@ -1,7 +1,6 @@
 {
-  "name": "React Web App",
+  "name": "MERN-boilerplate",
   "version": "1.0.0",
-  "description": "React Web App",
   "author": "Mohsin",
   "repository": {
     "type": "git"
